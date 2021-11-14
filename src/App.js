@@ -7,6 +7,10 @@ function App() {
 
 
       TEST HOSTING WITH GITHUB
+
+      TEST UPDATE
+
+      <button type="button" onclick="alert('Test')">Test</button>
     </div>
   );
 }
